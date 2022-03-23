@@ -9,7 +9,7 @@
 <!-- Title -->
 
 <p align="center">
-  <h2>Introdução ao Desenvolvimento Web</h2>
+  <h2 align="center">Introdução ao Desenvolvimento Web</h2>
   
   <p align="center">
     <br />
