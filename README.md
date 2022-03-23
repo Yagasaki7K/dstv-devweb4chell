@@ -88,7 +88,7 @@ Além de ser o cara que atende o cliente (Front-end), você também será o cara
 ## Dicas e Bônus
 O desenvolvimento é algo maravilhoso, requer tempo, dedicação e preparação, e fique tranquilo, independente da área que você escolheu, você poderá seguir sua linha de estudos usando um [Roadmap](https://roadmap.sh) (mapa mental) para te auxiliar a organizar bem a sua rotina de estudos para quando for pular de cabeça!
 
-Dica! Leia sempre a documentação da linguagem de programação para que você entenda o que está acontecendo, como evitar erros, se manter atualizado e acima de tudo, reconhecer algumas funcionalidade que outras pessoas não te disseram que provavelmente nem elas mesmos sabiam. Agradeça! Pois temos vários materiais em Português e isso ajuda bastante no seu nível de evolução como desenvolvedor, mas não deixe de aprender e praticar o inglês.
+Dica! Leia sempre a documentação da linguagem de programação para que você entenda o que está acontecendo, como evitar erros, se manter atualizado e acima de tudo, reconhecer algumas funcionalidade que outras pessoas não te disseram, e provavelmente nem elas mesmos sabiam. Agradeça! Pois temos vários materiais em Português e isso ajuda bastante no seu nível de evolução como desenvolvedor, mas não deixe de aprender e praticar o inglês.
 
 Depois de consumir a documentação, lembre-se de aplicar na prática e sempre estudar, seja através de Youtube, Udemy, cursos, mentorias ou o que for, deixar de consumir esse tipo de informação é perder tempo, é simplesmente saber como funciona um esporte, mas não praticar ele.
 
