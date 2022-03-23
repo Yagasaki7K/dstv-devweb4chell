@@ -41,9 +41,9 @@ Nesse artigo você aprenderá os conceitos básicos do Desenvolvimento Web e o q
 <!-- Insira o Artigo aqui! -->
 
 # O que é desenvolvimento web?
-O desenvolvimento web é uma função que surgiu desde o início da internet e ela é responsável, por auxiliar e implementar plataformas como Youtube, Twitch, Amazon, Google, Netflix e etc.
+O desenvolvimento web é uma função que surgiu desde o início da internet e ela é responsável por auxiliar e implementar plataformas como Youtube, Twitch, Amazon, Google, Netflix e etc.
 
-Existem vários seguimentos que cercam o desenvolvimento web, sendo eles: Design, Front-end, Back-end e Mobile. [Anteriormente](https://yagasaki.vercel.app/blog/posts/roadmap) eu dei comparações entre eles e ajudo em descobrir qual seria a melhor área para atuar, caso você decida seguir a carreira de desenvolvimento e ainda está na dúvida, é só ler o artigo.
+Existem vários seguimentos que cercam o desenvolvimento web, sendo eles: Design, Front-end, Back-end, Mobile e DevOps (assunto para outro artigo). [Anteriormente](https://yagasaki.vercel.app/blog/posts/roadmap) eu dei comparações entre eles e ajudo em descobrir qual seria a melhor área para atuar, caso você decida seguir a carreira de desenvolvimento e ainda esteja na dúvida, é só ler o artigo.
 
 ## Front-end Developer
 O Front-end é o cara responsável por pegar o layout do Designer e transformá-lo em código, fazer aquilo sair do papel e finalmente criar vida, mas saiba que para conseguir isso, você precisa ter um estudo maior em volta, por quê? Porque a vida não é feita apenas de copiar e colar.
@@ -74,16 +74,16 @@ Ela quem vai ser responsável por te levar uma Lógica de Programação, Estrutu
 
 Não podemos esquecer do Gerenciamento de Pacotes (NPM ou Yarn) e o sistema de controle de versões como Git e Github, eles são importantes para manter, organizar e realocar código sempre que preciso.
 
-Focar nos frameworks e bibliotecas da linguagem que aprendeu, se estiver bem consolidado, porque ele será uma mão na roda depois de mexer com tantos projetos e repetir tantas tarefas, incluindo questões de arquitetura.
+Depois disso tudo, lembre-se de focar nos frameworks e bibliotecas da linguagem que aprendeu, se estiver bem consolidado com a base, porque ele será uma mão na roda depois de mexer com tantos projetos e repetir tantas tarefas, incluindo questões de arquitetura.
 
-Após isso, um banco de dados para ajudar na organização e tratativa de dados, é fundamental, você pode escolher entre: MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase, Firestore, etc. Mas lembre-se de ver a diferença entre o banco de dados relacional e o não-relacional, porque eles possuem diferenças.
+Após isso, um banco de dados para ajudar na organização e tratativa de dados, é fundamental, você pode escolher entre: MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase, Firestore, MariaDB, etc. Mas lembre-se de ver a diferença entre o banco de dados relacional e o não-relacional, porque eles possuem diferenças em suas comunicações.
 
 Os testes unitários são de extremo fundamento para ambas as partes, mas para o back-end é muito mais, a adoção de testes unitários em sua produção permite solucionar dois problemas bem recorrentes que prejudicam o bom desempenho de um software. Eles são: Alta taxa de defeitos: resultado de erros frequentes no funcionamento, este índice faz com que, muitas vezes, o software deixe de ser utilizado. Deterioração do sistema: quando executado, o produto pode até ter um bom desempenho. Entretanto, ao longo do tempo, ele pode apresentar complicações que exigem a substituição de todo o sistema.
 
 ## Fullstack Developer
 Tá, entendemos e sabemos os passos que precisamos para ser tanto um desenvolvedor Front-end quanto Back-end, mas e se eu quiser ser os dois? Se você quiser Fullstack, Fullcycle, Full System Development, entre vários outros nomes definidos pela mesma ideia, não é problema nenhum, mas a atenção é redobrada.
 
-Além de ser o cara que atende o cliente (Front-end), você também será o cara que prepara a comida (Back-end) e isso requer um nível de atenção muito alto, além de ficar por dentro de todas as novidades que acontecem nas duas partes, melhorias, estratégias que foram incrementadas e que você pode optar aderir no seu sistema e várias outras coisas, mas relaxa, claro que somos humanos e não necessariamente conseguimos nos manter cem por cento atualizado, mas como dizia, atenção redobrada.
+Além de ser o cara que atende o cliente (Front-end), você também será o cara que prepara a comida (Back-end) e isso requer um nível de atenção muito alto, além de ficar por dentro de todas as novidades que acontecem nas duas partes, melhorias, estratégias que foram incrementadas e que você pode optar por aderir no seu sistema e várias outras coisas, mas relaxa, claro que somos humanos e não necessariamente conseguimos nos manter cem por cento atualizado, mas como dizia, atenção redobrada.
 
 ## Dicas e Bônus
 O desenvolvimento é algo maravilhoso, requer tempo, dedicação e preparação, e fique tranquilo, independente da área que você escolheu, você poderá seguir sua linha de estudos usando um [Roadmap](https://roadmap.sh) (mapa mental) para te auxiliar a organizar bem a sua rotina de estudos para quando for pular de cabeça!
