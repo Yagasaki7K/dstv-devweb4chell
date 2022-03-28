@@ -6,8 +6,6 @@
     </a>    
 </p>
 
-<!-- Title -->
-
 <p align="center">
   <h2 align="center">Introdução ao Desenvolvimento Web</h2>
   
@@ -21,13 +19,9 @@
     <a href="https://github.com/Yagasaki7K/devweb4chell/issues">Solicitar uma funcionalidade</a>
   </p>
 </p>
-    
- <!-- About -->
 
 ## Sobre o Projeto
 Nesse artigo você aprenderá os conceitos básicos do Desenvolvimento Web e o que é necessário para estudar e começar a dar os primeiros passos na carreira como desenvolvedor.
-
-<!-- Sumário -->
 
 ## Sumário
 
@@ -36,9 +30,6 @@ Nesse artigo você aprenderá os conceitos básicos do Desenvolvimento Web e o q
 - [Back-end Developer](#back-end-developer)
 - [Fullstack Developer](#fullstack-developer)
 - [Dicas e Bônus](#dicas-e-bonus)
-
-  
-<!-- Insira o Artigo aqui! -->
 
 # O que é desenvolvimento web?
 O desenvolvimento web é uma função que surgiu desde o início da internet e ela é responsável por auxiliar e implementar plataformas como Youtube, Twitch, Amazon, Google, Netflix e etc.
@@ -101,9 +92,6 @@ Outra dica é, NÃO FOQUE EM LINGUAGENS! As linguagens mudam, o *hype* passa e a
 Para te ajudar nesse quesito de comunidades, a [Aperture Laboratories](https://discord.gg/nyTRNSV) é uma comunidade open source de desenvolvimento brasileiro que está a mais de dois anos de portas abertas com mais de mil e quinhentos membros, prontos para ajudar antigos e novos desenvolvedores em qualquer problema que estejam enfrentando, seja no seu cotidiano ou no seu projeto, seja nível profissional ou nível pessoal.
 
 Seja bem-vindo ao desenvolvimento web e nunca pare de aprender!
-
-
-<!-- CONTRIBUTING -->
 
 ## Como Contribuir
 
